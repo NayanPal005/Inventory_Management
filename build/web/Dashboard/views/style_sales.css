@@ -1,0 +1,19 @@
+
+*{
+    margin:auto auto;
+}
+.mydiv button{
+    align:center;
+    position:relative;
+  border-radius:8px;
+  padding: 8px 8px;
+  width:150px;
+  background-color: green;
+  color:black;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  
+}
+.btn button {
+    background-color: red;
+    margin-right: 900px;  
+}

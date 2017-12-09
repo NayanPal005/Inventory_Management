@@ -1,0 +1,14 @@
+SMAP
+purchase_jsp.java
+JSP
+*S JSP
+*F
++ 0 purchase.jsp
+Dashboard/views/purchase.jsp
+*L
+1,412:46
+413,35:459
+447,7:494
+454,10:502
+463,78:512
+*E
